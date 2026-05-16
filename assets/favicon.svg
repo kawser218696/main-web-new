@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PomPom Hub">
+  <rect width="64" height="64" rx="12" fill="#110f17"/>
+  <path d="M12 48V16h18c7 0 12 5 12 11s-5 11-12 11H23v10H12Zm11-20h6c3 0 5-2 5-5s-2-5-5-5h-6v10Z" fill="#ffcb45"/>
+  <path d="M40 48V16h11v12h-6v20h-5Z" fill="#ff3d8a"/>
+  <circle cx="49" cy="39" r="8" fill="#2bd9c5"/>
+</svg>
